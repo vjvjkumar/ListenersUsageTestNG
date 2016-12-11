@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Pack1.CustomTestListener"/>
+  </listeners>
+  <test name="Test1(failed)">
+    <classes>
+      <class name="Pack1.MytestListeners">
+        <methods>
+          <include name="yahoo"/>
+          <include name="gmail"/>
+          <include name="quikr"/>
+          <include name="aftermethod"/>
+          <include name="google"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- Pack1.MytestListeners -->
+      <class name="Pack1.GmailTest">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- Pack1.GmailTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

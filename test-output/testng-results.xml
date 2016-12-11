@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68311" started-at="2016-12-11T15:31:02Z" finished-at="2016-12-11T15:32:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68311" started-at="2016-12-11T15:31:02Z" finished-at="2016-12-11T15:32:11Z">
+      <class name="Pack1.PriorityTests">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Pack1.PriorityTests@2669b199]" name="beforemethod" is-config="true" duration-ms="8994" started-at="2016-12-11T21:01:02Z" finished-at="2016-12-11T21:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="quikr()[pri:1, instance:Pack1.PriorityTests@2669b199]" name="quikr" duration-ms="4079" started-at="2016-12-11T21:01:11Z" finished-at="2016-12-11T21:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quikr -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Pack1.PriorityTests@2669b199]" name="aftermethod" is-config="true" duration-ms="934" started-at="2016-12-11T21:01:16Z" finished-at="2016-12-11T21:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Pack1.PriorityTests@2669b199]" name="beforemethod" is-config="true" duration-ms="8784" started-at="2016-12-11T21:01:16Z" finished-at="2016-12-11T21:01:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="gmail()[pri:2, instance:Pack1.PriorityTests@2669b199]" name="gmail" duration-ms="10842" started-at="2016-12-11T21:01:25Z" finished-at="2016-12-11T21:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmail -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Pack1.PriorityTests@2669b199]" name="aftermethod" is-config="true" duration-ms="596" started-at="2016-12-11T21:01:36Z" finished-at="2016-12-11T21:01:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Pack1.PriorityTests@2669b199]" name="beforemethod" is-config="true" duration-ms="7968" started-at="2016-12-11T21:01:37Z" finished-at="2016-12-11T21:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="yahoo()[pri:3, instance:Pack1.PriorityTests@2669b199]" name="yahoo" duration-ms="11477" started-at="2016-12-11T21:01:45Z" finished-at="2016-12-11T21:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoo -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Pack1.PriorityTests@2669b199]" name="aftermethod" is-config="true" duration-ms="945" started-at="2016-12-11T21:01:56Z" finished-at="2016-12-11T21:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Pack1.PriorityTests@2669b199]" name="beforemethod" is-config="true" duration-ms="9539" started-at="2016-12-11T21:01:57Z" finished-at="2016-12-11T21:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="google()[pri:4, instance:Pack1.PriorityTests@2669b199]" name="google" duration-ms="3626" started-at="2016-12-11T21:02:07Z" finished-at="2016-12-11T21:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Pack1.PriorityTests@2669b199]" name="aftermethod" is-config="true" duration-ms="502" started-at="2016-12-11T21:02:10Z" finished-at="2016-12-11T21:02:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- Pack1.PriorityTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
